@@ -1,9 +1,9 @@
 [project]
-name = "sampleproject"  # Required
+name = "Htautau"  # Required
 
 version = "0.0.1"  # Required
 
-description = "A sample Python project"  # Optional
+description = "Boosted H->tautau analysis "  # Optional
 
 readme = "README.md" # Optional
 
@@ -73,8 +73,8 @@ dev = ["check-manifest"]
 test = ["coverage"]
 
 [project.urls]  # Optional
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Reports" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/hrzhao76/Htautau"
+"Bug Reports" = "https://github.com/hrzhao76/Htautau/issues"
 
 
 # The following would provide a command line executable called `sample`
